@@ -1,10 +1,9 @@
-<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/bd6e7412-a886-4b45-96ee-4f6fb08fb54e" />
-<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/d97c91d4-db3d-4375-af90-1364f4c5c686" />
-
 🌍 Predicting Air Pollution Levels Based on IoT Sensors
 Author: Shaikhstan Margulan
 Affiliation: Department of Artificial Intelligence Technologies, L.N. Gumilyov Eurasian National University
 Conference: 2025 1st International Conference on Cybersecurity, Digital Forensics and AI Applications (ICCSDFAI)
+
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/d97c91d4-db3d-4375-af90-1364f4c5c686" />
 
 📖 Overview
 This project focuses on predicting Air Quality Index (AQI) levels using data from IoT-based air monitoring systems and machine learning algorithms.
