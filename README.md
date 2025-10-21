@@ -1,3 +1,6 @@
+<img width="827" height="536" alt="image" src="https://github.com/user-attachments/assets/bd6e7412-a886-4b45-96ee-4f6fb08fb54e" />
+<img width="788" height="516" alt="image" src="https://github.com/user-attachments/assets/d97c91d4-db3d-4375-af90-1364f4c5c686" />
+
 🌍 Predicting Air Pollution Levels Based on IoT Sensors
 Author: Shaikhstan Margulan
 Affiliation: Department of Artificial Intelligence Technologies, L.N. Gumilyov Eurasian National University
